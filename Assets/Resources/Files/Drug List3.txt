@@ -1,0 +1,5 @@
+Flexeril=Cyclobenzaprine
+Robaxin=Methocarbamol
+Soma=Carisoprodol
+Zanaflex=Tizanidine
+Celebrex=Celecoxib
